@@ -1,3 +1,5 @@
+#if condition
+
 age=int(input("Enter age:"))
 print("Your age is: ")
 
