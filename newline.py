@@ -1,3 +1,5 @@
+# Newline using Python.
+
 print("im a bad boy\n also youre a cute/girl")
 # hey im niher
 
